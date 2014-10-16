@@ -41,9 +41,31 @@ html
 .middle {
     background-color: #bababa;
     border: 1px solid;
-    height: 350px;
+    height: 349px;
     margin-left: 10%;
     margin-right: 10%;
+        }
+
+.menu {
+    height:349px;
+    width: 25%;
+    }
+
+li {
+    border-bottom: 1px black dotted;
+    color: #A32900;
+    list-style-type: none;
+    text-align: left;
+    margin-left: -25%;
+    padding-left: 10px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    }
+
+h5 {
+    color: #A32900;
+    text-align: left;
+    padding-left: 10px;
     }
     
 .footer {
