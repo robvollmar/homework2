@@ -14,6 +14,30 @@ html
     margin-right: 10%;
     }
     
+.headerimage {
+    height: 150px;
+    width:25%;
+    display: inline;
+    float: left;
+    }
+    
+.image {
+    height: 150px;
+    }
+
+.headertext {
+    height:150px;
+    width: 75%;
+    display: inline;
+    }
+
+.text {
+    color: white;
+    font-size: 200%;
+    padding: 50px;
+    margin-left: 25%;
+    }
+
 .middle {
     background-color: #bababa;
     border: 1px solid;
@@ -24,7 +48,7 @@ html
     
 .footer {
     background-color: #A32900;
-    border: 1px solid;
+    border: 1px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
     height: 75px;
