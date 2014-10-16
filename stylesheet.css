@@ -8,8 +8,27 @@ html
     border: 2px;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
-    height: 200px;
+    height: 150px;
     margin-top: 25px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
     }
+    
+.middle {
+    background-color: #bababa;
+    border: 1px solid;
+    height: 350px;
+    margin-left: 10%;
+    margin-right: 10%;
+    }
+    
+.footer {
+    background-color: #A32900;
+    border: 1px solid;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    height: 75px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
