@@ -1,4 +1,15 @@
 html
 {
-    background-color:blue;
+    background-color: #000056;
 }
+
+.header {
+    background-color: #333378;
+    border: 2px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
