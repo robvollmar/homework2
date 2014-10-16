@@ -1,6 +1,8 @@
 html
 {
     background-color: #000056;
+    font-family: Helvetica, sans-serif;
+    
 }
 
 .header {
@@ -41,14 +43,15 @@ html
 .middle {
     background-color: #bababa;
     border: 1px solid;
-    height: 349px;
+    height: 350px;
     margin-left: 10%;
     margin-right: 10%;
         }
 
 .menu {
-    height:349px;
+    height:350px;
     width: 25%;
+    float:left;
     }
 
 li {
@@ -57,17 +60,34 @@ li {
     list-style-type: none;
     text-align: left;
     margin-left: -25%;
-    padding-left: 10px;
+    padding-left: 10%;
     padding-top: 1em;
     padding-bottom: 1em;
-    }
+        }
 
 h5 {
     color: #A32900;
     text-align: left;
     padding-left: 10px;
     }
+
+.body {
+    height: 350px;
+    width: 75%;
+    display: inline-block;
+    }
+
+h2 {
+    margin-left:10%;
+    margin-top: 3em;
+    }
+
+h4 {
+    margin-left:10%;
+    margin-right: 5%;
+    margin top: 5px;
     
+}
 .footer {
     background-color: #A32900;
     border: 1px;
