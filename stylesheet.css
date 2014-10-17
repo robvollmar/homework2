@@ -53,6 +53,10 @@ html
     width: 25%;
     float:left;
     }
+    
+a {
+    text-decoration: none;
+    }
 
 li {
     border-bottom: 1px black dotted;
@@ -96,7 +100,7 @@ h4 {
     height: 75px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top:-25px;
+    margin-top:-26px;
 }
 
 h6 {
